@@ -1,0 +1,12 @@
+From: alerts@security-hdfcbank.com  
+To: you@example.com  
+Subject: Urgent: Unrecognized Transaction Detected on Your Account  
+
+Dear Customer,  
+
+A transaction of ₹37,920 has been attempted on your account from New Delhi.  
+If this wasn’t you, please cancel the transaction immediately using the link below:  
+
+👉 https://secure-hdfcbank-help.com/review  
+
+HDFC Bank Security Team
